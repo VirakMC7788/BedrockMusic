@@ -25,4 +25,4 @@ position: '0:0:0'
 ## Commands
 | Default command | Parameter | Description | Permission |
 | :-----: | :--------: | :---------: | :----------: |
-| /bedrockmusic | [position / radius / ---] | Plays music | command.itemenchant |
+| /bedrockmusic | [position / radius / ---] | Plays music | bedrockmusic.command |
