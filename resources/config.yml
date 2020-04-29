@@ -1,0 +1,4 @@
+# if set to true it will only play the music to a player when he is in a specific radius to the position
+onlyradius: false
+radius: 12
+position: '0:0:0'

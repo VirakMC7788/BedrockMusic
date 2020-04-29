@@ -1,0 +1,9 @@
+name: BedrockMusic
+authors:
+  - benjamin
+  - BedrockPlugins
+  - BrokenItZAndrei100
+# API by BrokenItZAndrei100 -> https://github.com/BrokenItZAndrei100/ZMusicBox
+version: 2.0
+api: 3.2.0
+main: benjamin\BedrockMusic\BedrockMusic
