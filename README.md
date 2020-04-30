@@ -10,6 +10,7 @@ Important: The API for this has been created by [BrokenItZAndrei100](https://git
 
 ## Add songs
 If you want to add songs, just drag them into the `plugin_data/BedrockMusic/` folder. They will automatically register while loading the plugin -> you have to restart after adding new songs
+If you don't want to create your own songs, here is a [link](https://github.com/Ruinscraft/powder-resources/tree/master/songs/songs) to finished songs. (These are not mine)
 
 ## Configuration
 You can change that the song will only be played to a player if he is in a certain radius to a position in`plugin_data/BedrockMusic/config.yml`.
